@@ -1,1 +1,2 @@
 # third-party-api-assignment
+this is a daily planner application, based around the 9-5 working schedule. it can be used for remebering dentist apoinments to rembering when u have class . as a daily planner it has near unlimited use cases. all u have to do is type what u want to do the the respective time slot, hit the save button next to it and ur good. there is also a clear button at the top for getting rid of everything at once.
